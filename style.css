@@ -2,10 +2,3 @@ body {
     background-color: aqua;
 
 }
-
-header {
-    position: fixed;
-    width: 80vw;
-    left: 50%;
-
-}
