@@ -4,6 +4,8 @@ body {
 }
 
 header {
-    position: center;
+    position: fixed;
+    width: 80vw;
+    left: 50%;
 
 }
